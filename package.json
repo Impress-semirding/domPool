@@ -1,0 +1,27 @@
+{
+  "name": "pool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Impress-semirding/domPool.git"
+  },
+  "keywords": [
+    "dom",
+    "pool"
+  ],
+  "author": "senir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Impress-semirding/domPool/issues"
+  },
+  "homepage": "https://github.com/Impress-semirding/domPool#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
